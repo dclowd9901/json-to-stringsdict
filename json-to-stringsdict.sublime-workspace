@@ -1,0 +1,519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"actua",
+				"actualStart"
+			],
+			[
+				"actual",
+				"actualEnd"
+			],
+			[
+				"avg",
+				"avgLineNumDiff"
+			],
+			[
+				"grouped",
+				"groupedWith"
+			],
+			[
+				"subsec",
+				"subsection"
+			],
+			[
+				"group",
+				"groupedWith"
+			],
+			[
+				"sub",
+				"subsection"
+			],
+			[
+				"ref",
+				"refToOtherSubsection"
+			],
+			[
+				"other",
+				"otherSubsectionScore"
+			],
+			[
+				"subse",
+				"subsectionKey"
+			],
+			[
+				"Hash",
+				"HashsetLib"
+			],
+			[
+				"comparis",
+				"comparisonKey"
+			],
+			[
+				"pro",
+				"proximity"
+			],
+			[
+				"length",
+				"lengthDelta"
+			],
+			[
+				"word1",
+				"word1Length"
+			],
+			[
+				"word",
+				"word1Length"
+			],
+			[
+				"word2",
+				"word2Length"
+			],
+			[
+				"cac",
+				"calculateSectionOdds"
+			],
+			[
+				"discre",
+				"discreteSections"
+			],
+			[
+				"sect",
+				"sectionWhitespace"
+			],
+			[
+				"tokeni",
+				"tokenizedWhiteSpace"
+			],
+			[
+				"calc",
+				"calculateUpperQuartile"
+			],
+			[
+				"sorted",
+				"sortedByCount"
+			],
+			[
+				"hash",
+				"hashsets"
+			],
+			[
+				"parsedtimes",
+				"parsedTimesByAmPm"
+			],
+			[
+				"parsed",
+				"parseSpelledDates"
+			],
+			[
+				"parse",
+				"parseTimesByAmPm"
+			],
+			[
+				"am",
+				"amPmDes"
+			],
+			[
+				"date",
+				"dateHeatMap"
+			],
+			[
+				"pars",
+				"parseSpelledDates"
+			],
+			[
+				"test",
+				"testAroundMonth"
+			],
+			[
+				"el",
+				"eliminateWhiteSpacesAfterCurrency"
+			],
+			[
+				"tokenize",
+				"tokenizedMoneyMap"
+			],
+			[
+				"toke",
+				"tokenizedText"
+			],
+			[
+				"token",
+				"tokenizedMoneyMap"
+			],
+			[
+				"split",
+				"splitText"
+			],
+			[
+				"get",
+				"getFrequencyMeanMode"
+			],
+			[
+				"calcul",
+				"calculateMinMaxAvg"
+			],
+			[
+				"sort",
+				"sortedByCount"
+			],
+			[
+				"cacl",
+				"calculateMinMax"
+			],
+			[
+				"re",
+				"reBackwardAndForward"
+			],
+			[
+				"refor",
+				"reForward"
+			],
+			[
+				"forw",
+				"forward"
+			],
+			[
+				"blo",
+				"blobArr"
+			],
+			[
+				"time",
+				"timeHeatMap"
+			],
+			[
+				"testAround",
+				"testAroundColon"
+			],
+			[
+				"testArou",
+				"testAroundSlash"
+			],
+			[
+				"text",
+				"textAsCharArray"
+			],
+			[
+				"raw",
+				"rawText"
+			],
+			[
+				"curr",
+				"currday"
+			],
+			[
+				"lo",
+				"logPass"
+			],
+			[
+				"log",
+				"logFail"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "json-to-stringsdict.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"def",
+				"Preferences: Settings - Default"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ddrew/dev/Loaner/Localizable.plist",
+		"/Users/ddrew/dev/Loaner/Loaner/en.lproj/Localizable.strings",
+		"/Users/ddrew/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/ddrew/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ddrew/dev/groupie/util/NoiseFilter.js",
+		"/Users/ddrew/dev/groupie/util/EventsAnalyzer.js",
+		"/Users/ddrew/dev/groupie/util/EfficiencyUtilities.js",
+		"/Users/ddrew/dev/groupie/util/BaseParser.js",
+		"/Users/ddrew/dev/groupie/util/ScrapingUtils.js",
+		"/Users/ddrew/dev/groupie/package.json",
+		"/Users/ddrew/dev/groupie/controllers/QueryController.js",
+		"/Users/ddrew/dev/groupie/util/DateTimeParser.js",
+		"/Users/ddrew/dev/groupie/node_modules/natural/lib/natural/tokenizers/regexp_tokenizer.js",
+		"/Users/ddrew/dev/groupie/controllers/index.js",
+		"/Users/ddrew/dev/groupie/app.js",
+		"/Users/ddrew/dev/groupie/routes/QueryRoute.js",
+		"/Users/ddrew/dev/showhopping_server/package.json",
+		"/Users/ddrew/dev/Showhopping-iOS/testing/scripts/Startup.js",
+		"/Users/ddrew/dev/Loaner/.git/info/exclude",
+		"/Users/ddrew/dev/Showhopping-iOS/testing/scripts/DatePicker.js",
+		"/Users/ddrew/dev/Showhopping-iOS/testing/scripts/LoadingView.js",
+		"/Users/ddrew/dev/Showhopping-iOS/testing/scripts/datepicker.js",
+		"/Users/ddrew/dev/Showhopping-iOS/testing/datepicker.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"grouper",
+			"console",
+			"calcul",
+			"sectionwhitespace",
+			"console",
+			"tieGroupsTogether",
+			"j",
+			"discretesections",
+			"hashset",
+			"word",
+			"tokenizedWhiteSpace",
+			"proximity",
+			"pattern",
+			"discreteSections",
+			"key",
+			"console",
+			"tokenizedText",
+			"splitText",
+			"upperQuartile",
+			"datetime",
+			";",
+			"=",
+			"this.",
+			"console",
+			",",
+			":",
+			"\\b",
+			"console.log",
+			"this.dateheat",
+			"\\\\b",
+			"matches",
+			"dateheat",
+			"dateheatmap",
+			"parsedates",
+			"currency",
+			"tokenizedText",
+			"moneyStarted",
+			"tokenizedText",
+			"_.sort",
+			"sort",
+			"sortby",
+			"DateTimeParser",
+			"underscore",
+			"getFrequencyMeanMode",
+			"calculateMinMaxAvg",
+			"wordProps.count",
+			"calculateMinMax",
+			"wordFrequencyMap",
+			"mapwords",
+			"console",
+			"splittext",
+			"    var splitText = text.split(''),\n        datesRe = new RegExp('/');\n\n    _.each(splitText, _.bind(function (value, key, all) {\n      var result = this.testFor(value, key, all, datesRe);\n      \n      if (result) {\n        this.dateHeatMap[key] = result;\n      }\n    }, this));\n\n    return splitText;",
+			"getstring",
+			"//",
+			"value",
+			"=",
+			"fail",
+			"Fail",
+			"fail",
+			"pass",
+			"Pass",
+			"pass",
+			"test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "json-to-stringsdict.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "json-to-stringsdict.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
