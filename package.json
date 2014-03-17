@@ -1,8 +1,9 @@
 {
     "name": "json-to-stringsdict",
     "description": "Converst JSON files to an iOS .stringsdict file",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "dependencies": {
         "lodash" : "2.4.x"
-    }
+    },
+    "bin" : { "jts" : "./jts.js" } 
 }
