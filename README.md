@@ -17,6 +17,10 @@ First,
 
     $ git clone git@github.com:dclowd9901/json-to-stringsdict.git
 
+Or,
+
+    $ npm install json-to-stringsdict -g (if you want to be able to run the script anywhere)
+
 Then, 
 
     $ npm install
