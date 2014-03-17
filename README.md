@@ -35,7 +35,13 @@ Creates a Localizable.stringsdict file in the cwd.
 
     $ jts filename.json foo.blah
 
-Creates the same file in the same place with the name foo.blah.
+Creates the same file in the same place with the name foo.blah. Generally, though,
+you'll want to do something like this:
+
+    $ jts filename.json <Path to project folder>/<language code>.lproj/Localizable.stringsdict
+
+Which will place the `.stringsdict` file right where you need it. Don't forget to add
+it to your project's build resources, of course.
 
 License
 -------

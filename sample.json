@@ -1,10 +1,11 @@
 {
-  "%d years": {
-    "d_total_years": {
-      "NSStringFormatSpecTypeKey": "NSStringPluralRuleType", 
-      "NSStringFormatValueTypeKey": "d",           
-      "other": "%d years",
-      "one": "%d year"
+  "%d years" : {
+    "NSStringLocalizedFormatKey" : "%#@d_total_years@",
+    "d_total_years" : {
+      "one" : "%d year",
+      "other" : "%d years",
+      "NSStringFormatValueTypeKey" : "d",
+      "NSStringFormatSpecTypeKey" : "NSStringPluralRuleType"
     }
-  } 
+  }
 }
